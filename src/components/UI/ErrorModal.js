@@ -1,9 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
+//components
+import Card from "./Card";
+import Button from "./Button";
 //Styles
 import classes from "./ErrorModal.module.css";
-import Card from "./card";
-import Button from "./button";
 
 const Backdrop = props =>
 {

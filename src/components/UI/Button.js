@@ -1,6 +1,6 @@
 import React from "react";
 //Styles
-import classes from "./Button.css";
+import classes from "./Button.module.css";
 
 const Button = props =>
 {
